@@ -1,8 +1,7 @@
-
 功能
 ----
 * 根据用户自定义的配置，自动生成PAC脚本
-* 支持[Adblock Plus filter](http://adblockplus.org/en/filter-cheatsheet)，这个是著名的autoproxy项目使用的规则
+* 支持[Adblock Plus filter](http://adblockplus.org/en/filter-cheatsheet)，这个是著名的[autoproxy项目](http://code.google.com/p/autoproxy/)使用的规则
 * 支持IPv6匹配，即如果浏览的目标网站可以解析成IPv6地址，那么相应的规则将会匹配
 
 
