@@ -62,6 +62,9 @@ exports.config = {
       //suport Adblock Plus Rules, more information please visit http://adblockplus.org/en/filter-cheatsheet
     , adblockrules: "gfwlist.txt"
 
+      //if set ipv6 to true, and if the target host is ipv6 resolvable, the rule is match the target
+    //, ipv6: true
+
     }
 
   ]
